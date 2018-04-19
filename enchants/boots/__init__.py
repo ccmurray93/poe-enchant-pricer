@@ -1,0 +1,17 @@
+__all__ = [
+    "EnchantmentLifeAndManaRegenerationWhenHit3_",
+    "EnchantmentAddedFireDamageOnKill3",
+    "EnchantmentAddedChaosDamageWhenCrit3",
+    "EnchantmentAttackAndCastSpeedOnKill3",
+    "EnchantmentChanceCauseStatusAilmentsWhileHaventCrit3",
+    "EnchantmentColdDamageWhenHit3",
+    "EnchantmentCriticalChanceWhenNoCrit3",
+    "EnchantmentDodgeChanceWhenCrit3",
+    "EnchantmentElementalPenetrationWhileHaventKilled3",
+    "EnchantmentLifeAndManaLeechOnKill3",
+    "EnchantmentLightningDamageWhileHaventKilled3_",
+    "EnchantmentManaCostsWhenHit3",
+    "EnchantmentMovementVelocityWhileHaventBeenHit3",
+    "EnchantmentSpellDodgeWhenHitBySpells3",
+    "EnchantmentStunAvoidanceOnKill3",
+]
